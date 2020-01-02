@@ -1,44 +1,87 @@
 [{
-        "State":"Oyo",
+        "State": "Oyo",
         "Teacher": "Dr Sharafudeen Gbadebo Rooji",
         "Book": "Buluughul mahram/ Zaadul",
         "Days": "Thursday",
         "Time": "After Solaatul maghrib",
         "Venue": "Al-Madeenah central mosque, olukoko, Ogbomosho"
     }, {
-        "State":"Oyo",
+        "State": "Oyo",
         "Teacher": "Ustaadh Qaasim Bakoja",
         "Book": "Riyaadhus-Soliheen",
         "Days": "Thursday",
         "Time": "Maghrib to Ishai",
         "Venue": "Masjid (Imaam Soliu), Post office ,Saki , Oyo State."
     }, {
-        "State":"Osun",
+        "State": "Osun",
         "Teacher": "Ustadh Aboo Hanoon",
         "Book": "mutuunu toolibil ilm",
         "Days": "Thursday",
         "Time": "Maghrib to Ishai",
         "Venue": "Masjid Tawheed,Oke - iresi,Ede"
     }, {
-        "State":"Osun",
+        "State": "Osun",
         "Teacher": "Ustaadh Mubaarak Abiola",
         "Book": "Qosiidatul haaiyyah  (libni abii daawud as-sijistaani)",
         "Days": "Thursday",
         "Time": "4.30 pm",
         "Venue": "Al Mas'uudy Central Mosque, Sunnahlokan area, Quarry , Apomu Osun State "
     }, {
-        "State":"Kwara",
+        "State": "Kwara",
         "Teacher": "Ustaadh Shakir Yuusuf",
         "Book": "Usoolu-s-Sunnah of Imaam Ahmad",
         "Days": "Thursday",
         "Time": "Maghrib to Ishai",
         "Venue": "Alhaji Yahaya Shola Sanni,Memorial Central Mosque. Opposite, Sanrab filling station, Tanke, Ilorin "
     }, {
-        "State":"Kwara",
+        "State": "Kwara",
         "Teacher": "Ustadh Abdul Fattah Sarumi",
         "Book": "Riyaadhus Soliheen",
         "Days": "Thursday",
         "Time": "8.30pm - 9.30pm",
         "Venue": "Ode sarumi beside Oke kura Prison yard. Ilorin."
+    }, {
+        "State": "Lagos",
+        "Teacher": "Invited Scholars and students of Knowledge.",
+        "Day": "Every Saturday",
+        "Time": "4.30pm to 6.30pm",
+        "Venue": "13,Ayangburen road beside Skye bank Ojubode Ikorodu"
+    },
+
+    {
+        "State": "Lagos",
+        "Teacher": "As-Sheik Habeebullah Juma'ah Agbabiaka",
+        "Book": "Saheeh Muslim",
+        "Day": " Saturday",
+        "Time": "After Solaatul Fajr",
+        "Venue": "Al-Maktab (Saudi) Central Mosque, Igbe, Ikorodu, Lagos."
+    },
+
+    {
+        "State": "Lagos",
+        "Teacher": "As-Sheik Habeebullah Juma'ah Agbabiaka",
+        "Book": "Tafseerul-Qur'aan.",
+        "Day": "Saturday",
+        "Time": "after maghrib.",
+        "Venue": "Al-Maktab (Saudi) Central Mosque, Igbe, Ikorodu, Lagos."
+    },
+
+    {
+        "State": "Lagos",
+        "Teacher": "Ustaadh Ibraaheem Sanusi (Karatu)",
+        "Book": "Aqeedatul-Wasitiyyah",
+        "Days": "Saturday's",
+        "Time": "Subhi till 9.am",
+        "Venue": "Bilikisu Gidado Masjid. Ile Epo Alhaji Bus stop, Egbeda, Lagos."
+    },
+
+
+    {
+        "State": "Lagos",
+        "Teacher": " Ustaadh Ma'ruuf Abdul raheem Abu baaqi",
+        "Book": " Sharhu Usuulus -Sunnah of imam Ahmad",
+        "Days": "Saturday's",
+        "Time": " Maghrib to Ishai",
+        "Venue": " Ummul Khair Central Mosque, AIT Raypower Road, Kola bus stop, Lagos."
     }
-   ]
+]
