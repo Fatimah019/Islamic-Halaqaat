@@ -1,0 +1,44 @@
+[{
+        "State":"Oyo",
+        "Teacher": "Dr Sharafudeen Gbadebo Rooji",
+        "Book": "Buluughul mahram/ Zaadul",
+        "Days": "Thursday",
+        "Time": "After Solaatul maghrib",
+        "Venue": "Al-Madeenah central mosque, olukoko, Ogbomosho"
+    }, {
+        "State":"Oyo",
+        "Teacher": "Ustaadh Qaasim Bakoja",
+        "Book": "Riyaadhus-Soliheen",
+        "Days": "Thursday",
+        "Time": "Maghrib to Ishai",
+        "Venue": "Masjid (Imaam Soliu), Post office ,Saki , Oyo State."
+    }, {
+        "State":"Osun",
+        "Teacher": "Ustadh Aboo Hanoon",
+        "Book": "mutuunu toolibil ilm",
+        "Days": "Thursday",
+        "Time": "Maghrib to Ishai",
+        "Venue": "Masjid Tawheed,Oke - iresi,Ede"
+    }, {
+        "State":"Osun",
+        "Teacher": "Ustaadh Mubaarak Abiola",
+        "Book": "Qosiidatul haaiyyah  (libni abii daawud as-sijistaani)",
+        "Days": "Thursday",
+        "Time": "4.30 pm",
+        "Venue": "Al Mas'uudy Central Mosque, Sunnahlokan area, Quarry , Apomu Osun State "
+    }, {
+        "State":"Kwara",
+        "Teacher": "Ustaadh Shakir Yuusuf",
+        "Book": "Usoolu-s-Sunnah of Imaam Ahmad",
+        "Days": "Thursday",
+        "Time": "Maghrib to Ishai",
+        "Venue": "Alhaji Yahaya Shola Sanni,Memorial Central Mosque. Opposite, Sanrab filling station, Tanke, Ilorin "
+    }, {
+        "State":"Kwara",
+        "Teacher": "Ustadh Abdul Fattah Sarumi",
+        "Book": "Riyaadhus Soliheen",
+        "Days": "Thursday",
+        "Time": "8.30pm - 9.30pm",
+        "Venue": "Ode sarumi beside Oke kura Prison yard. Ilorin."
+    }
+   ]
